@@ -1,0 +1,55 @@
+.todo-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.todo-card-title {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.todo-card-caption {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+
+}
+
+.todo-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.todo-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    text-align: left;
+}
+
+.todo-card-folder {
+    text-align: center;
+}
+
+.button {
+    width: 80px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text-underline {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    font-size: 11px;
+}
